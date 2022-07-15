@@ -1,4 +1,4 @@
-# Recursive Bubble Sort Algorithm in MIPS
+# Recursive Bubblesort Algorithm in MIPS
 Using Recursive Bubble Sort to sort n integer values in ascending order in MIPS
 
 ## Algorithm Description
